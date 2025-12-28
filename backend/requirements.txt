@@ -1,0 +1,40 @@
+# =========================
+# Core Backend
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# Environment & Config
+# =========================
+python-dotenv
+pydantic
+pydantic-settings
+
+# =========================
+# Database (SQLAlchemy)
+# =========================
+sqlalchemy
+
+# =========================
+# Authentication & Security
+# =========================
+python-jose
+passlib[bcrypt]
+
+# =========================
+# File & Resume Handling
+# =========================
+python-multipart
+pypdf
+
+# =========================
+# AI / LLM (Optional – plug & play)
+# =========================
+openai
+httpx
+
+# =========================
+# Utilities
+# =========================
+requests
